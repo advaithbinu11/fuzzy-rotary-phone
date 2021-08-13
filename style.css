@@ -1,0 +1,28 @@
+
+.menu{
+    display:flex;
+    justify-content:space-between;
+    background-color:yellow;
+    padding:10px;
+    font-family: 'Poppins', sans-serif;
+}
+.title{
+    font-family: 'Recursive', sans-serif;
+}
+.grid{
+    display: flex;
+    border:5px solid #FF3299;
+    border-radius: 50 px;
+    background-color:#77A1FF;
+    margin: 0px;
+}
+.grid img{
+    display: flex;
+    flex-wrap:wrap;
+}
+.orgami{
+    font-family:sans-serif;
+    border-radius:20px;
+    width:310 px;
+    margin: 10px
+}
